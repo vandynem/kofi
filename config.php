@@ -1,0 +1,35 @@
+<?php
+
+require 'constain.php';
+
+// HTTP
+define('HTTP_SERVER', 'http://localhost/ecommerce/');
+
+// HTTPS
+define('HTTPS_SERVER', 'https://localhost/ecommerce/');
+
+// DIR
+define('DIR_APPLICATION', '/var/www/html/ecommerce/catalog/');
+define('DIR_SYSTEM', '/var/www/html/ecommerce/system/');
+define('DIR_IMAGE', '/var/www/html/ecommerce/image/');
+define('DIR_STORAGE', '/var/www/html/ecommerce/storage/');
+define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
+define('DIR_TEMPLATE', DIR_APPLICATION . 'view/theme/');
+define('DIR_CONFIG', DIR_SYSTEM . 'config/');
+define('DIR_CACHE', DIR_STORAGE . 'cache/');
+define('DIR_DOWNLOAD', DIR_STORAGE . 'download/');
+define('DIR_LOGS', DIR_STORAGE . 'logs/');
+define('DIR_MODIFICATION', DIR_STORAGE . 'modification/');
+define('DIR_SESSION', DIR_STORAGE . 'session/');
+define('DIR_UPLOAD', DIR_STORAGE . 'upload/');
+
+
+// DB
+define('DB_DRIVER', 'mysqli');
+define('DB_HOSTNAME', DB_HOST);
+define('DB_USERNAME', DB_USER);
+define('DB_PASSWORD', DB_PASS);
+define('DB_DATABASE', DB_NAME);
+
+define('DB_PORT', '3306');
+define('DB_PREFIX', 'oc_');

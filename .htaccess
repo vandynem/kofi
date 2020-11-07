@@ -1,0 +1,7 @@
+php_value auto_prepend_file /var/www/html/catalog/controller/extension/astra/astra-inc.php
+RewriteEngine on
+RewriteBase /
+RewriteCond %{HTTP:SSL} !=1 [NC]
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+AddDefaultCharset utf-8

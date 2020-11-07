@@ -1,0 +1,4360 @@
+2020-11-06 7:27:52 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 7:27:52 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 7:27:52 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 7:27:52 - in header
+2020-11-06 7:27:52 - Array
+(
+)
+
+2020-11-06 7:30:42 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 7:30:42 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 7:30:42 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 7:30:42 - in header
+2020-11-06 7:30:42 - Array
+(
+)
+
+2020-11-06 7:31:20 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 7:31:20 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 7:31:20 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 7:31:20 - in header
+2020-11-06 7:31:20 - Array
+(
+)
+
+2020-11-06 7:37:25 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 7:37:25 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 7:37:25 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 7:37:25 - in header
+2020-11-06 7:37:25 - Array
+(
+)
+
+2020-11-06 7:40:12 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 7:40:12 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 7:40:12 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 7:40:12 - in header
+2020-11-06 7:40:12 - Array
+(
+)
+
+2020-11-06 7:46:17 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 7:46:17 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 7:46:17 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 7:46:17 - in header
+2020-11-06 7:46:17 - Array
+(
+)
+
+2020-11-06 7:54:31 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 7:54:31 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 7:54:31 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 7:54:31 - in header
+2020-11-06 7:54:31 - Array
+(
+)
+
+2020-11-06 8:52:39 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 8:52:39 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 8:52:39 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 8:52:39 - in header
+2020-11-06 8:52:39 - Array
+(
+)
+
+2020-11-06 8:55:47 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 8:55:47 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 8:55:47 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 8:55:47 - in header
+2020-11-06 8:55:47 - Array
+(
+)
+
+2020-11-06 8:55:57 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 8:55:57 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 8:55:57 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 8:55:57 - in header
+2020-11-06 8:55:57 - Array
+(
+)
+
+2020-11-06 8:55:59 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 8:55:59 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 8:55:59 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 8:55:59 - in header
+2020-11-06 8:55:59 - Array
+(
+)
+
+2020-11-06 8:56:26 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 8:56:26 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 8:56:26 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 8:56:26 - in header
+2020-11-06 8:56:26 - Array
+(
+)
+
+2020-11-06 9:32:44 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 9:32:44 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 9:32:44 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 9:32:44 - in header
+2020-11-06 9:32:44 - Array
+(
+)
+
+2020-11-06 9:33:41 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 9:33:41 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 9:33:41 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 9:33:41 - in header
+2020-11-06 9:33:41 - Array
+(
+)
+
+2020-11-06 9:47:38 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 9:47:38 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 9:47:38 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 9:47:38 - in header
+2020-11-06 9:47:38 - Array
+(
+)
+
+2020-11-06 9:48:30 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 9:48:30 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 9:48:30 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 9:48:30 - in header
+2020-11-06 9:48:30 - Array
+(
+)
+
+2020-11-06 9:48:57 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 9:48:57 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 9:48:57 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 9:48:57 - in header
+2020-11-06 9:48:57 - Array
+(
+)
+
+2020-11-06 9:50:21 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 9:50:21 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 9:50:21 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 9:50:21 - in header
+2020-11-06 9:50:21 - Array
+(
+)
+
+2020-11-06 9:51:53 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 9:51:53 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 9:51:53 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 9:51:53 - in header
+2020-11-06 9:51:53 - Array
+(
+)
+
+2020-11-06 9:52:32 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 9:52:33 - stdClass Object
+(
+    [num_rows] => 0
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+)
+
+2020-11-06 9:52:33 - stdClass Object
+(
+    [num_rows] => 12
+    [row] => Array
+        (
+            [extension_id] => 2
+            [type] => total
+            [code] => shipping
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [extension_id] => 2
+                    [type] => total
+                    [code] => shipping
+                )
+
+            [1] => Array
+                (
+                    [extension_id] => 3
+                    [type] => total
+                    [code] => sub_total
+                )
+
+            [2] => Array
+                (
+                    [extension_id] => 4
+                    [type] => total
+                    [code] => tax
+                )
+
+            [3] => Array
+                (
+                    [extension_id] => 5
+                    [type] => total
+                    [code] => total
+                )
+
+            [4] => Array
+                (
+                    [extension_id] => 8
+                    [type] => total
+                    [code] => credit
+                )
+
+            [5] => Array
+                (
+                    [extension_id] => 10
+                    [type] => total
+                    [code] => handling
+                )
+
+            [6] => Array
+                (
+                    [extension_id] => 11
+                    [type] => total
+                    [code] => low_order_fee
+                )
+
+            [7] => Array
+                (
+                    [extension_id] => 12
+                    [type] => total
+                    [code] => coupon
+                )
+
+            [8] => Array
+                (
+                    [extension_id] => 15
+                    [type] => total
+                    [code] => reward
+                )
+
+            [9] => Array
+                (
+                    [extension_id] => 16
+                    [type] => total
+                    [code] => voucher
+                )
+
+            [10] => Array
+                (
+                    [extension_id] => 120
+                    [type] => total
+                    [code] => payment_discount
+                )
+
+            [11] => Array
+                (
+                    [extension_id] => 121
+                    [type] => total
+                    [code] => payment_discount1
+                )
+
+        )
+
+)
+
+2020-11-06 9:52:33 - in header
+2020-11-06 9:52:33 - Array
+(
+)
+
